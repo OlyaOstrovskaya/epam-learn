@@ -9,7 +9,3 @@ some content
 hi
 --------
 
-another branch
-some info
-
-and more info
